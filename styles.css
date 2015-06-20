@@ -40,6 +40,6 @@ html,body{
 	}
 	
 .b{
-	text-decoration:none;
+	text-decoration:underline;
 	color:rgba(255,255,255,1);
 	}
