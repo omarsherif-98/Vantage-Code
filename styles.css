@@ -40,6 +40,10 @@ html,body{
 	}
 	
 .b{
-	text-decoration:underline;
+	text-decoration:none;
 	color:rgba(255,255,255,1);
+	}
+
+.b:hover{
+	text-decoration:underline;
 	}
