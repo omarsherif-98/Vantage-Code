@@ -3,48 +3,5 @@
 html,body{
 	margin:0;
 	padding:0;
-	background-color:rgba(240,248,255,1)
+	background-color:rgba(255,255,255,1)
 }
-
-.nav{
-	width: 100%;	
-	background-color: rgba(0,0,0,0);
-	text-align:center;
-	text-decoration: none;
-	color: rgba(255,255,255,1);
-	display:inline-block;
-	font-family: 'Raleway', sans-serif;
-	font-size: 16px;
-	font-weight:700;
-	-webkit-padding-start:0px;
-
-}
-
-.nav li{
-	display:inline-block;
-	margin: 10px 0 10px 0;
- 	vertical-align: middle;
-  	line-height: normal;
-	padding:5px 30px 5px 30px;
-	text-align:center;
-}
-
-
-.group::after{
-	content:"";
-	clear:both;
-	display:block;
-	}
-	
-.header{
-	background-color:rgba(30,144,255,1)
-	}
-	
-.b{
-	text-decoration:none;
-	color:rgba(255,255,255,1);
-	}
-
-.b:hover{
-	text-decoration:underline;
-	}
