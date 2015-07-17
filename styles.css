@@ -3,5 +3,164 @@
 html,body{
 	margin:0;
 	padding:0;
-	background-color:rgba(0,0,0,1)
+	background-color:rgba(255,255,255,1);
+	color: black;
 }
+
+/********************************
+Header
+********************************/
+#hossDIV_1 {
+    color: rgb(96, 96, 96);
+    height: 69px;
+    position: fixed;
+    width: 1171.15625px;
+    z-index: 999;
+    perspective-origin: 636.484375px 47.5px;
+    transform-origin: 636.484375px 47.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    outline: rgb(96, 96, 96) none 0px;
+    padding: 15px 50.90625px 11px;
+    transition: all 0.5s ease 0s;
+}/*#hossDIV_1*/
+
+#hossDIV_2 {
+    color: rgb(96, 96, 96);
+    position: relative;
+    width: 1171.15625px;
+    perspective-origin: 585.578125px 0px;
+    transform-origin: 585.578125px 0px;
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    outline: rgb(96, 96, 96) none 0px;
+}/*#hossDIV_2*/
+
+#hossA_3 {
+    color: rgb(198, 21, 27);
+    display: block;
+    float: left;
+    height: 41px;
+    width: 140px;
+    perspective-origin: 70px 20.5px;
+    transform-origin: 70px 20.5px;
+    border: 0px none rgb(198, 21, 27);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    margin: 15px 0px 13px;
+    outline: rgb(198, 21, 27) none 0px;
+    transition: all 0.5s ease 0s;
+}/*#hossA_3*/
+
+#hossIMG_4 {
+    color: rgb(198, 21, 27);
+    height: 36px;
+    width: 140px;
+    perspective-origin: 70px 18px;
+    transform-origin: 70px 18px;
+    border: 0px none rgb(198, 21, 27);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    outline: rgb(198, 21, 27) none 0px;
+    transition: all 0.5s ease 0s;
+}/*#hossIMG_4*/
+
+#hossDIV_5 {
+    background-position: 50% 50%;
+    color: rgb(96, 96, 96);
+    cursor: pointer;
+    height: 28px;
+    position: absolute;
+    right: 0px;
+    width: 28px;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 24px 24px;
+    transform-origin: 24px 24px;
+    background: rgba(0, 0, 0, 0) 
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    margin: 10px 0px 0px;
+    outline: rgb(96, 96, 96) none 0px;
+    padding: 10px;
+    transition: all 0.5s ease 0s;
+}/*#hossDIV_5*/
+
+#hossDIV_6 {
+    color: rgb(96, 96, 96);
+    width: 1171.15625px;
+    perspective-origin: 585.578125px 0px;
+    transform-origin: 585.578125px 0px;
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal 300 normal 16px/normal Merriweather, serif;
+    outline: rgb(96, 96, 96) none 0px;
+}/*#hossDIV_6*/
+
+#hossUL_7 {
+    color: rgb(96, 96, 96);
+    display: none;
+    float: left;
+    height: auto;
+    position: absolute;
+    width: 70%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal bold normal 16px/normal 'Open Sans', sans-serif;
+    margin: 0px 0px 0px 15%;
+    outline: rgb(96, 96, 96) none 0px;
+    padding: 14px 0px 0px;
+}/*#hossUL_7*/
+
+#hossLI_8, #hossLI_10, #hossLI_12, #hossLI_14, #hossLI_16 {
+    color: rgb(96, 96, 96);
+    float: left;
+    height: auto;
+    text-transform: uppercase;
+    width: 20%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(96, 96, 96);
+    font: normal normal bold normal 16px/25.6000003814697px 'Open Sans', sans-serif;
+    list-style: none outside none;
+    outline: rgb(96, 96, 96) none 0px;
+}/*#hossLI_8, #hossLI_10, #hossLI_12, #hossLI_14, #hossLI_16*/
+
+#hossA_9, #hossA_11, #hossA_15 {
+    color: rgb(76, 76, 76);
+    display: block;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 96%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 2px solid rgb(255, 255, 255);
+    font: normal normal bold normal 16px/25.6000003814697px 'Open Sans', sans-serif;
+    list-style: none outside none;
+    outline: rgb(76, 76, 76) none 0px;
+    padding: 5px 0px;
+}/*#hossA_9, #hossA_11, #hossA_15*/
+
+#hossA_13, #hossA_17 {
+    color: rgb(76, 76, 76);
+    display: block;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 96%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 2px solid rgb(255, 255, 255);
+    font: normal normal bold normal 16px/25.6000003814697px 'Open Sans', sans-serif;
+    list-style: none outside none;
+    outline: rgb(76, 76, 76) none 0px;
+    padding: 5px 0px;
+}/*#hossA_13, #hossA_17*/
+
+/********************************
+Header END
+********************************/
+
