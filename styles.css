@@ -20,7 +20,7 @@ html,body{
 	background-color:white;
 	display:block;
 	font-size:10px;
-	background-image:url(headermesh.jpg);
+	background-image:url(headermesh2.jpg);
 	background-repeat:no-repeat;
 	background-size:100%;
 	border-bottom:solid 0px white;
@@ -59,11 +59,9 @@ ul {				/*navlist positioning, style*/
 .wrap1{
 	width:100%;
 	height:900px;
-	text-align:center;
-	background-image:url(ph.jpg);
+	background-image:url(ph2.png);
 	background-size:100%;
 	background-repeat:no-repeat;
-	line-height:0;
 	display:inline-block;
 	
 	}
@@ -84,8 +82,13 @@ ul {				/*navlist positioning, style*/
 	}
 .s{
 	position:relative;
-	top:50%;	
-	font-size:18px;
+	top:20%;	
+	font-size:42px;
+	color:black;
+	font-weight:100;
+	left:25%;
+	letter-spacing:5px;
+	font-family:'Proxima Nova', sans serif;
 	}
 .s2{
 	position:relative;
@@ -103,7 +106,8 @@ ul {				/*navlist positioning, style*/
 	top:10%;
 	font-size:10px
 	}
-
+#hs1 a{
+	color:red;}
 
 
 
