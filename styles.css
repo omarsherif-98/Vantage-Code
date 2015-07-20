@@ -3,8 +3,12 @@
 html,body{
 	margin:0;
 	padding:0;
+<<<<<<< HEAD
 	background-color:rgba(255,255,255,1);
 	color: black;
+=======
+	background-color:rgba(255,255,255,1)
+>>>>>>> e059b892037d3803c1b3c788fe5430424f55fd10
 }
 
 /********************************
