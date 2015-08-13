@@ -90,20 +90,21 @@ ul {				/*navlist positioning, style*/
 	font-size:42px;
 	color:white;
 	font-weight:100;
-	left:25%;
 	letter-spacing:5px;
 	font-family:'Proxima Nova', sans serif;
+	text-align:center;
 	}
 .s2{
 	position:relative;
 	top:30%;
-	font-size:18px;	
+	font-size:42px;	
 	}
 .s3{
 	position:relative;
 	top:40%;
 	padding:0 20% 0 20%;
-	font-size:10px;
+	font-size:30px;
+	text-align:left;
 	}
 .s4{
 	position:realtive;
@@ -111,4 +112,5 @@ ul {				/*navlist positioning, style*/
 	font-size:10px
 	}
 #hs1 a{
+
 	color:red;}
